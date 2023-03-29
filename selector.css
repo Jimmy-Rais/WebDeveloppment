@@ -1,0 +1,30 @@
+
+*{
+ color: blue;
+ font-family: cursive;
+}
+input[type="text"]{
+	color: red;
+}
+/*a[href]{
+	color: green;
+	font-family: serif;
+	font-size: 20px;
+	font-weight: bold; */
+}
+img[src]{
+	border:5px solid green;
+	border-radius: 80px;
+}
+a:link {
+	color: green;
+}
+a:visited{
+	color: green;
+}
+a:hover{
+color: black;
+}
+a:active{
+	color: pink;
+}

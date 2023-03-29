@@ -1,0 +1,15 @@
+.maindiv{
+		height: 400px;
+		width: 400px;
+		background-color: blue;
+	}
+	.sub1{
+		height: 100 px;
+		width: 200 px;
+		background-color: red;
+	}
+	.sub2 {
+		height: 200px;
+		width: 400px;
+		background-color: green;
+	}
