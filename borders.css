@@ -1,0 +1,19 @@
+p{
+	/*border-style: ridge;
+	border-color: hotpink skyblue;
+	border-width: 20px;
+	border-top-style: dashed;
+	border-right-style:solid;
+	border-left-style: solid;
+	border-bottom-style: dashed; */
+	border-left: 10px solid hotpink; 
+	border-top: 10px solid blue;
+	border-bottom: 10px solid green;
+	border-right: 10px solid blue;/*border Shorthand property*/
+	color: skyblue;
+
+}
+img[src]{
+	border:3px solid pink;
+	border-radius: 200px;
+}
